@@ -1,0 +1,4 @@
+openpyxl
+python-docx
+beautifulsoup4
+requests
